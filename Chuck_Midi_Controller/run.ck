@@ -1,0 +1,3 @@
+LaserInstrument laser;
+
+laser.run();
